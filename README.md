@@ -16,5 +16,7 @@ Things you may want to cover:
 * Database initialization
 
 * How to run the test suite
+
   server : rails server
+
   test : bundle exec rspec spec
